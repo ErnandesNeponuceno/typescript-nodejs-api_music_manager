@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-interface MusicModel {
+export interface MusicModel {
     artistName: string;
     music: string;
     videoId: string;
