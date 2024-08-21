@@ -1,12 +1,24 @@
 [
     {
-        "artistName": "Liniker",
+        "artistName": "liniker",
         "music": "CAJU",
         "videoId": "rPVVgNI1FS4",
         "categories": ["mpb", "samba", "soul"]
     },
     {
-        "artistName": "Zaynara",
+        "artistName": "liniker",
+        "music": "TUDO",
+        "videoId": "FPqDd_fJmSs&pp",
+        "categories": ["mpb", "samba", "soul"]
+    },
+    {
+        "artistName": "liniker",
+        "music": "FEBRE",
+        "videoId": "wLdLpaPcmuE&pp",
+        "categories": ["mpb", "samba", "soul"]        
+    },
+    {
+        "artistName": "zaynara",
         "music": "Quem Manda em Mim",
         "videoId": "eYgb0wKM_Qo",
         "categories": ["pop", "BeatMelody"]

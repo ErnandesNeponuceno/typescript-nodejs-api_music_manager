@@ -12,7 +12,8 @@ const pathData = path.join(__dirname, "../data/music.json");
 
 export const repositoryMusic = 
 async(artistName?: string):Promise<MusicModel[]> =>{
-    const rawdata = fs.readFileSync(pathData, "utf-8");
+    const language = "utf-8"
+    const rawdata = fs.readFileSync(pathData, language);
     let jsonFIle = JSON.parse(rawdata);
 
     if(artistName){
